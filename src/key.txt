@@ -1,2 +1,2 @@
 //RawG Aio Key
-const KEY = f00696fa296a47569afd9413ce7e5724;
+const KEY = ******************
