@@ -1,7 +1,7 @@
 ///Base URL
 const base_url = `https://api.rawg.io/api/`;
 //KEY
-const KEY = 'f00696fa296a47569afd9413ce7e5724';
+const KEY = '**********************';
 
 ///DATE
 //getCurremtMonth
